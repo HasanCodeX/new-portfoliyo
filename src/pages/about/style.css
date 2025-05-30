@@ -11,11 +11,34 @@
     border-color: var(--text-color) !important;
 }
 
+/* .progress-title {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 15px 0 20px;
+    font-family: 'Raleway';
+} */
+
 .progress-title {
     font-size: 16px;
     font-weight: 700;
     margin: 15px 0 20px;
     font-family: 'Raleway';
+    position: relative;
+    padding: 15px 20px 15px 40px;
+    border: 1px solid currentColor;  /* Border color matches text */
+    border-radius: 8px;
+    background-color: transparent;
+    color: inherit; /* Uses parent color (automatically adjusts in dark mode) */
+}
+
+.progress-title::before {
+    content: "•";
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    color: inherit; /* Bullet inherits text color */
 }
 
 .progress {

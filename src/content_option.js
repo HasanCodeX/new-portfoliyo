@@ -44,30 +44,71 @@ const worktimeline = [
 
 const skills = [
   {
-    name: "Javascript",
-    value: 80,
-  },
-  {
-    name: "React",
-    value: 60,
-  },
-  {
-    name: "Jquery",
+    name: "JavaScript",
     value: 85,
   },
   {
-    name: "MongoDB",
+    name: "React",
     value: 75,
   },
   {
-    name: "Express.js",
+    name: "Next.js",
     value: 70,
   },
   {
+    name: "Redux",
+    value: 65,
+  },
+  {
     name: "Node.js",
+    value: 80,
+  },
+  {
+    name: "Express.js",
     value: 75,
   },
+  {
+    name: "MongoDB",
+    value: 70,
+  },
+  {
+    name: "Mongoose",
+    value: 65,
+  },
+  {
+    name: "REST APIs",
+    value: 70,
+  },
+  {
+    name: "JWT Authentication",
+    value: 60,
+  },
+  {
+    name: "Postman",
+    value: 65,
+  },
+  {
+    name: "Git & GitHub",
+    value: 75,
+  },
+  {
+    name: "HTML & CSS",
+    value: 80,
+  },
+  {
+    name: "React Router",
+    value: 70,
+  },
+  {
+    name: "Server-side Rendering (SSR)",
+    value: 65,
+  },
+  {
+    name: "Static Site Generation (SSG)",
+    value: 60,
+  },
 ];
+
 
 const services = [
   {
