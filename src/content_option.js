@@ -13,7 +13,7 @@ const introdata = {
     },
     description: "Hi, I'm Mehedi Hasan — a passionate Frontend Developer based in Bangladesh. I specialize in building modern, responsive web applications using technologies like React, Tailwind CSS, and Next.js.",
     // your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
-     your_img_url: "https://i.ibb.co/1ttg1fmg/personal-1.jpg",
+     your_img_url: "https://i.ibb.co/ycp6551P/profile-all.jpg",
 
 
     
