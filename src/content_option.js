@@ -130,77 +130,34 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://i.ibb.co/jk7crkfW/Plant-Care-06-03-2025-03-20-AM.png",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "A full-stack app for managing and tracking plant care tasks with personalized dashboards and secure authentication.",
+    link: "https://plant-care-tracker-bd.web.app",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: "https://i.ibb.co/7tqHcpx3/Home-Event-Explorer-06-03-2025-03-33-AM.png",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "Discover and book local events. Browse listings, reserve seats, and manage your profile securely.",
+    link: "https://event-explorer-bd.netlify.app/",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://i.ibb.co/FLgzDN1f/Medical-Appointment-App-06-03-2025-03-40-AM.png",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "Book appointments with verified doctors and manage bookings in a user-friendly healthcare platform.",
+    link: "https://phudu-medical.netlify.app/",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: "https://i.ibb.co/MynFYDFh/English-Janala-06-03-2025-03-57-AM.png",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "A language learning platform with interactive lessons and personalized feedback to improve English skills.",
+    link: "https://hasancodex.github.io/Project---web-B11-A5-english-janala",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: "https://i.ibb.co/JwCsfsHn/Auction-Gallery-06-03-2025-03-49-AM.png",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/550/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+      "A responsive auction platform for bidding on collectibles and luxury items with real-time tracking.",
+    link: "https://auctiongallerybd.netlify.app",
   },
 ];
 
