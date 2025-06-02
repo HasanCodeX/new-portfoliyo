@@ -237,12 +237,12 @@ section {
 
 .intro_sec .h_bg-image {
   filter: saturate(0.10);
-  animation: changeSaturation 5s forwards; /* 5s delay and apply change */
-  animation-delay: 5s; /* Wait 5 seconds before starting */
+  animation: changeSaturation 7s forwards; /* 7s delay and apply change */
+  animation-delay: 7s; /* Wait 7 seconds before starting */
 }
 
 @keyframes changeSaturation {
   to {
-    filter: saturate(1); /* Normal saturation after 5s */
+    filter: saturate(1); /* Normal saturation after 7s */
   }
 }
