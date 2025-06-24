@@ -147,12 +147,12 @@ const dataportfolio = [
       "Book appointments with verified doctors and manage bookings in a user-friendly healthcare platform.",
     link: "https://phudu-medical.netlify.app/",
   },
-  {
-    img: "https://i.ibb.co/MynFYDFh/English-Janala-06-03-2025-03-57-AM.png",
-    description:
-      "A language learning platform with interactive lessons and personalized feedback to improve English skills.",
-    link: "https://hasancodex.github.io/Project---web-B11-A5-english-janala",
-  },
+  // {
+  //   img: "https://i.ibb.co/MynFYDFh/English-Janala-06-03-2025-03-57-AM.png",
+  //   description:
+  //     "A language learning platform with interactive lessons and personalized feedback to improve English skills.",
+  //   link: "https://hasancodex.github.io/Project---web-B11-A5-english-janala",
+  // },
   {
     img: "https://i.ibb.co/JwCsfsHn/Auction-Gallery-06-03-2025-03-49-AM.png",
     description:
